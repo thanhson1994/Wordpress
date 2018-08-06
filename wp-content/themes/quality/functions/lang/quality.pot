@@ -1,0 +1,1635 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Quality\n"
+"POT-Creation-Date: 2018-07-30 13:55+0530\n"
+"PO-Revision-Date: 2018-07-30 13:55+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:8
+msgid "4"
+msgstr ""
+
+#: 404.php:9
+msgid "Oops! Page not found"
+msgstr ""
+
+#: 404.php:10
+msgid "We are sorry, but the page you are looking for does not exist."
+msgstr ""
+
+#: 404.php:12
+msgid "Back to Homepage"
+msgstr ""
+
+#: comments.php:10
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:16 content.php:34 index-blog.php:53
+msgid "No Comments"
+msgstr ""
+
+#: comments.php:16 content.php:34 index-blog.php:53
+msgid "One comment"
+msgstr ""
+
+#: comments.php:16 content.php:34 index-blog.php:53
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: comments.php:26
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:27
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:28
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:37
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment"
+msgstr ""
+
+#: comments.php:43
+msgid "Name"
+msgstr ""
+
+#: comments.php:44
+msgid "Email"
+msgstr ""
+
+#: comments.php:52
+msgid "Comment"
+msgstr ""
+
+#: comments.php:54
+msgid "Logged in as"
+msgstr ""
+
+#: comments.php:54
+msgid "Logout"
+msgstr ""
+
+#: comments.php:56
+msgid "Post comment"
+msgstr ""
+
+#: comments.php:58
+msgid "Leave a Reply"
+msgstr ""
+
+#: content.php:29 functions.php:96 index-blog.php:48
+msgid "Read More"
+msgstr ""
+
+#: content.php:37 index-blog.php:56
+msgid "In"
+msgstr ""
+
+#: functions.php:55
+msgid "Page"
+msgstr ""
+
+#: functions.php:69
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:117
+msgid ""
+"Important Notice: We hope you are enjoying this theme, and we thank you for "
+"updating it. Please install our Webriti Companion plugin to manage your "
+"Services/Projects sections. Don't worry, nothing is lost, just install the "
+"Companion Plugin. Go to the Customizer and install the Webriti Companion "
+"plugin from there."
+msgstr ""
+
+#: functions.php:118
+msgid "Go To Customizer"
+msgstr ""
+
+#: functions/breadcrumbs/breadcrumbs.php:32
+#: functions/breadcrumbs/breadcrumbs.php:36
+msgid "Home"
+msgstr ""
+
+#: functions/breadcrumbs/breadcrumbs.php:39
+msgid "Archive by category"
+msgstr ""
+
+#: functions/breadcrumbs/breadcrumbs.php:89
+msgid "Error 404"
+msgstr ""
+
+#: functions/commentbox/comment-function.php:12
+msgid "Reply"
+msgstr ""
+
+#: functions/commentbox/comment-function.php:21
+msgid "at"
+msgstr ""
+
+#: functions/commentbox/comment-function.php:30
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions/customizer-notify/quality-customizer-notify.php:111
+msgid "Activating"
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:33
+msgid "Add new field"
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:38
+msgid "Customizer Repeater"
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:256
+#: functions/customizer-repeater/class/customizer-repeater-control.php:405
+#: functions/customizer/customizer-blog.php:67
+#: functions/customizer/customizer-slider.php:48
+msgid "Title"
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:263
+#: functions/customizer-repeater/class/customizer-repeater-control.php:412
+#: functions/customizer/customizer-slider.php:63
+msgid "Subtitle"
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:270
+#: functions/customizer-repeater/class/customizer-repeater-control.php:419
+#: functions/customizer/customizer-blog.php:84
+#: functions/customizer/customizer-slider.php:78
+msgid "Description"
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:279
+#: functions/customizer-repeater/class/customizer-repeater-control.php:427
+#: functions/customizer/customizer-slider.php:95
+msgid "Button Text"
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:290
+#: functions/customizer-repeater/class/customizer-repeater-control.php:437
+#: functions/customizer-repeater/class/customizer-repeater-control.php:627
+#: functions/customizer-repeater/class/customizer-repeater-control.php:649
+msgid "Link"
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:309
+#: functions/customizer-repeater/class/customizer-repeater-control.php:455
+msgid "Video Url"
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:333
+#: functions/customizer-repeater/class/customizer-repeater-control.php:397
+msgid "Color"
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:343
+#: functions/customizer-repeater/class/customizer-repeater-control.php:466
+msgid "Shortcode"
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:351
+#: functions/customizer-repeater/class/customizer-repeater-control.php:475
+msgid "Designation"
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:367
+#: functions/customizer-repeater/class/customizer-repeater-control.php:486
+msgid "Delete field"
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:523
+msgid "Open link in new tab"
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:534
+#: functions/customizer-repeater/class/customizer-repeater-control.php:603
+msgid "Icon"
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:539
+#, php-format
+msgid ""
+"Note: Some icons may not be displayed here. You can see the full list of "
+"icons at %1$s."
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:558
+#: functions/customizer-repeater/class/customizer-repeater-control.php:604
+#: functions/customizer/customizer-slider.php:30
+msgid "Image"
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:561
+msgid "Upload Image"
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:570
+msgid "Slide Format"
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:574
+msgid "Standard"
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:578
+msgid "Aside"
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:582
+msgid "Quote"
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:586
+msgid "Status"
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:590
+msgid "Video"
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:600
+msgid "Image type"
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:605
+msgid "None"
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:613
+msgid "Social icons"
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:630
+#: functions/customizer-repeater/class/customizer-repeater-control.php:660
+msgid "Remove Icon"
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:635
+#: functions/customizer-repeater/class/customizer-repeater-control.php:668
+msgid "Add Icon"
+msgstr ""
+
+#: functions/customizer/customizer-archive.php:6
+msgid "Archive page title"
+msgstr ""
+
+#: functions/customizer/customizer-archive.php:15
+#: functions/customizer/customizer-archive.php:21
+msgid "Archive"
+msgstr ""
+
+#: functions/customizer/customizer-archive.php:29
+#: functions/customizer/customizer-archive.php:35
+#: functions/template-tags.php:24
+msgid "Category"
+msgstr ""
+
+#: functions/customizer/customizer-archive.php:43
+#: functions/template-tags.php:30
+msgid "All posts by"
+msgstr ""
+
+#: functions/customizer/customizer-archive.php:49
+msgid "Author"
+msgstr ""
+
+#: functions/customizer/customizer-archive.php:57
+#: functions/customizer/customizer-archive.php:63
+#: functions/template-tags.php:36
+msgid "Tag"
+msgstr ""
+
+#: functions/customizer/customizer-archive.php:72
+#: functions/template-tags.php:56
+msgid "Search results for"
+msgstr ""
+
+#: functions/customizer/customizer-archive.php:78
+msgid "Search"
+msgstr ""
+
+#: functions/customizer/customizer-archive.php:86
+#: functions/customizer/customizer-archive.php:92
+#: functions/template-tags.php:66
+msgid "404"
+msgstr ""
+
+#: functions/customizer/customizer-archive.php:101
+#: functions/customizer/customizer-archive.php:107
+#: functions/template-tags.php:42
+msgid "Shop"
+msgstr ""
+
+#: functions/customizer/customizer-blog.php:7
+msgid "Recent Blog setting"
+msgstr ""
+
+#: functions/customizer/customizer-blog.php:27
+msgid "Enable Home Blog section"
+msgstr ""
+
+#: functions/customizer/customizer-blog.php:46
+msgid "Hide post meta from Blog section"
+msgstr ""
+
+#: functions/customizer/customizer-blog.php:58 theme_setup_data.php:58
+msgid "Our latest blog posts"
+msgstr ""
+
+#: functions/customizer/customizer-blog.php:77 theme_setup_data.php:59
+msgid "News <b>And</b> Updates"
+msgstr ""
+
+#: functions/customizer/customizer-copyright.php:8
+msgid "Footer copyright settings"
+msgstr ""
+
+#: functions/customizer/customizer-copyright.php:17
+msgid ""
+"<p>©2018 All Rights Reserved - Webriti. Designed and Developed by<a href="
+"\"https://www.webriti.com/\" target=\"_blank\"> Webriti</a></p>"
+msgstr ""
+
+#: functions/customizer/customizer-copyright.php:26
+msgid "Copyright text"
+msgstr ""
+
+#: functions/customizer/customizer-general.php:11
+#: functions/customizer/customizer-general.php:47
+msgid "Theme Color"
+msgstr ""
+
+#: functions/customizer/customizer-general.php:40
+msgid "General setting"
+msgstr ""
+
+#: functions/customizer/customizer-home.php:8
+msgid "Header settings"
+msgstr ""
+
+#: functions/customizer/customizer-home.php:14
+msgid "Site Favicon"
+msgstr ""
+
+#: functions/customizer/customizer-home.php:16
+msgid "Upload a Favicon"
+msgstr ""
+
+#: functions/customizer/customizer-home.php:28
+msgid "Choose your favicon (ideal width and height is 16x16 or 32x32)"
+msgstr ""
+
+#: functions/customizer/customizer-home.php:34
+msgid "Header logo settings"
+msgstr ""
+
+#: functions/customizer/customizer-home.php:51
+msgid "Upload a 150x150 Logo Image"
+msgstr ""
+
+#: functions/customizer/customizer-home.php:70
+msgid "Enable/Disable Logo"
+msgstr ""
+
+#: functions/customizer/customizer-home.php:91
+msgid "Enter Logo Width"
+msgstr ""
+
+#: functions/customizer/customizer-home.php:110
+msgid "Enter Logo Height"
+msgstr ""
+
+#: functions/customizer/customizer-home.php:132
+msgid "Show Logo text"
+msgstr ""
+
+#: functions/customizer/customizer-home.php:140
+#: functions/customizer/customizer-home.php:153
+msgid "Custom CSS"
+msgstr ""
+
+#: functions/customizer/customizer-pro.php:13
+#: functions/customizer/customizer-pro.php:20
+msgid "Upgrade to PRO"
+msgstr ""
+
+#: functions/customizer/customizer-pro.php:48
+msgid "View PRO Demo"
+msgstr ""
+
+#: functions/customizer/customizer-pro.php:76
+msgid "ADD YOUR REVIEW"
+msgstr ""
+
+#: functions/customizer/customizer-pro.php:107
+msgid "DOCUMENTATION"
+msgstr ""
+
+#: functions/customizer/customizer-pro.php:111
+msgid ""
+"The PRO version gives you more opportunities to enhance your site and "
+"business. An effective online presence requires showcasing a company's "
+"products and services in the best possible way. Effectively engage your "
+"visitors with a Contact Us enquiry form or through an appealing About Us "
+"page, or introducing your Team Members, or your latest portfolio. The PRO "
+"version offers all this. Choose Quality PRO today and give your business the "
+"best!"
+msgstr ""
+
+#: functions/customizer/customizer-slider.php:9
+msgid "Slider settings"
+msgstr ""
+
+#: functions/customizer/customizer-slider.php:15
+msgid "Featured slider settings"
+msgstr ""
+
+#: functions/customizer/customizer-slider.php:42 theme_setup_data.php:15
+msgid "Elegant design"
+msgstr ""
+
+#: functions/customizer/customizer-slider.php:57 theme_setup_data.php:16
+msgid "Welcome to Quality theme"
+msgstr ""
+
+#: functions/customizer/customizer-slider.php:72 theme_setup_data.php:17
+msgid "Create beautiful websites, 100% responsive and easy to customize."
+msgstr ""
+
+#: functions/customizer/customizer-slider.php:88 theme_setup_data.php:18
+msgid "Get this theme"
+msgstr ""
+
+#: functions/customizer/customizer-slider.php:111
+msgid "Button Link"
+msgstr ""
+
+#: functions/customizer/customizer_recommended_plugin.php:16
+msgid "Recommended Actions"
+msgstr ""
+
+#: functions/customizer/customizer_recommended_plugin.php:17
+msgid "Recommended Plugin"
+msgstr ""
+
+#: functions/customizer/customizer_recommended_plugin.php:18
+msgid "Install and Activate"
+msgstr ""
+
+#: functions/customizer/customizer_recommended_plugin.php:19
+msgid "Activate"
+msgstr ""
+
+#: functions/customizer/customizer_recommended_plugin.php:20
+msgid "Deactivate"
+msgstr ""
+
+#: functions/quality-info/sections/child-themes.php:16
+msgid "Install & Use Quality Child Themes"
+msgstr ""
+
+#: functions/quality-info/sections/child-themes.php:18
+msgid ""
+"Below you will find a selection of Quality child themes that will totally "
+"transform the look of your site."
+msgstr ""
+
+#: functions/quality-info/sections/child-themes.php:27
+#: functions/quality-info/sections/getting-started.php:37
+msgid "Quality Blue Child Theme"
+msgstr ""
+
+#: functions/quality-info/sections/child-themes.php:29
+msgid "Quality Blue"
+msgstr ""
+
+#: functions/quality-info/sections/child-themes.php:36
+#: functions/quality-info/sections/child-themes.php:65
+#: functions/quality-info/sections/child-themes.php:95
+#, php-format
+msgid "Install %s now"
+msgstr ""
+
+#: functions/quality-info/sections/child-themes.php:37
+#: functions/quality-info/sections/child-themes.php:66
+#: functions/quality-info/sections/child-themes.php:96
+msgid "Live Preview"
+msgstr ""
+
+#: functions/quality-info/sections/child-themes.php:42
+msgid "Quality Blue - Current theme"
+msgstr ""
+
+#: functions/quality-info/sections/child-themes.php:43
+#: functions/quality-info/sections/child-themes.php:72
+#: functions/quality-info/sections/child-themes.php:102
+msgid "Customize"
+msgstr ""
+
+#: functions/quality-info/sections/child-themes.php:56
+msgid "Quality Green Child Theme"
+msgstr ""
+
+#: functions/quality-info/sections/child-themes.php:58
+#: functions/quality-info/sections/child-themes.php:64
+msgid "Quality Green"
+msgstr ""
+
+#: functions/quality-info/sections/child-themes.php:71
+msgid "Quality - Current theme"
+msgstr ""
+
+#: functions/quality-info/sections/child-themes.php:86
+msgid "Quality Orange Child Theme"
+msgstr ""
+
+#: functions/quality-info/sections/child-themes.php:88
+#: functions/quality-info/sections/child-themes.php:94
+msgid "Quality Orange"
+msgstr ""
+
+#: functions/quality-info/sections/child-themes.php:101
+msgid "Quality Orange - Current theme"
+msgstr ""
+
+#: functions/quality-info/sections/free_pro.php:14
+msgid "Features"
+msgstr ""
+
+#: functions/quality-info/sections/free_pro.php:18
+msgid "Frontpage Sections"
+msgstr ""
+
+#: functions/quality-info/sections/free_pro.php:19
+msgid "You will find a number of sections on the front page."
+msgstr ""
+
+#: functions/quality-info/sections/free_pro.php:21
+msgid "Page Templates Support"
+msgstr ""
+
+#: functions/quality-info/sections/free_pro.php:22
+msgid "The Quality PRO theme includes various page templates."
+msgstr ""
+
+#: functions/quality-info/sections/free_pro.php:24
+msgid "Layout Options"
+msgstr ""
+
+#: functions/quality-info/sections/free_pro.php:25
+msgid ""
+"Quality supports both a Full-Width and a Boxed layout options. To choose "
+"your preference (and switch between them) go to Appearance > Customize."
+msgstr ""
+
+#: functions/quality-info/sections/free_pro.php:27
+msgid "Mobile Friendly"
+msgstr ""
+
+#: functions/quality-info/sections/free_pro.php:28
+msgid "Responsive layout in all devices"
+msgstr ""
+
+#: functions/quality-info/sections/free_pro.php:30
+msgid "Contact Form Support"
+msgstr ""
+
+#: functions/quality-info/sections/free_pro.php:31
+msgid ""
+"This theme supports the Contact Form 7 plugin. Use it to build your contact "
+"form."
+msgstr ""
+
+#: functions/quality-info/sections/free_pro.php:35
+msgid "Parallax Effect"
+msgstr ""
+
+#: functions/quality-info/sections/free_pro.php:36
+msgid ""
+"Display all of your information on a single page: the Parallax effect "
+"provides you a captivating scrolling experience."
+msgstr ""
+
+#: functions/quality-info/sections/free_pro.php:39
+msgid "Multiple Color Schemes"
+msgstr ""
+
+#: functions/quality-info/sections/free_pro.php:40
+msgid ""
+"Enjoy any if the 9 preset color schemes, or create your own, without adding "
+"any code."
+msgstr ""
+
+#: functions/quality-info/sections/free_pro.php:42
+msgid "Google Maps"
+msgstr ""
+
+#: functions/quality-info/sections/free_pro.php:43
+msgid ""
+"Display your Shop and Business location on your website using Google Maps."
+msgstr ""
+
+#: functions/quality-info/sections/free_pro.php:45
+msgid "Portfolio"
+msgstr ""
+
+#: functions/quality-info/sections/free_pro.php:46
+msgid ""
+"Present your project/portfolio collection with 2 column, 3 column and 4 "
+"column layouts. You can also display your project/portfolio by category."
+msgstr ""
+
+#: functions/quality-info/sections/free_pro.php:49
+msgid "About Us Page"
+msgstr ""
+
+#: functions/quality-info/sections/free_pro.php:50
+msgid ""
+"Show team members and other custom content just by adding it in the "
+"WordPress editor."
+msgstr ""
+
+#: functions/quality-info/sections/free_pro.php:53
+msgid "Services Page"
+msgstr ""
+
+#: functions/quality-info/sections/free_pro.php:54
+msgid "Show all your services in a single place."
+msgstr ""
+
+#: functions/quality-info/sections/free_pro.php:57
+msgid "Testimonial / Review Section"
+msgstr ""
+
+#: functions/quality-info/sections/free_pro.php:58
+msgid "Show user's feedback in the Homepage."
+msgstr ""
+
+#: functions/quality-info/sections/free_pro.php:62
+msgid "Typography Settings"
+msgstr ""
+
+#: functions/quality-info/sections/free_pro.php:63
+msgid "Customize the style without adding any code."
+msgstr ""
+
+#: functions/quality-info/sections/free_pro.php:67
+msgid "Supports WPML"
+msgstr ""
+
+#: functions/quality-info/sections/free_pro.php:68
+msgid "You can use WPML to make your website multilingual."
+msgstr ""
+
+#: functions/quality-info/sections/free_pro.php:71
+msgid "Support Forum"
+msgstr ""
+
+#: functions/quality-info/sections/free_pro.php:72
+msgid "Get instant 24/7 support on our Support Forum."
+msgstr ""
+
+#. Theme Name of the plugin/theme
+#: functions/quality-info/sections/free_pro.php:86
+msgid "Quality"
+msgstr ""
+
+#: functions/quality-info/sections/free_pro.php:92
+msgid "A Slider with 1 static image, 3 Services, 4 Portfolios, Latest News"
+msgstr ""
+
+#: functions/quality-info/sections/free_pro.php:97
+msgid "Business Template and Full-Width Template"
+msgstr ""
+
+#: functions/quality-info/sections/free_pro.php:98
+msgid "Full-Width Layout"
+msgstr ""
+
+#: functions/quality-info/sections/free_pro.php:110
+msgid "On the WordPress.org support forum"
+msgstr ""
+
+#: functions/quality-info/sections/free_pro.php:122
+msgid "Quality PRO"
+msgstr ""
+
+#: functions/quality-info/sections/free_pro.php:127
+msgid ""
+"A top header, unlimited sliders, unlimited services, unlimited portfolios, "
+"latest news, clients, testimonials, custom widgets"
+msgstr ""
+
+#: functions/quality-info/sections/free_pro.php:129
+msgid ""
+"About Us, Services, Portfolios, Blogs with left and right sidebars or full-"
+"width, full-width pages, Contact forms and much more."
+msgstr ""
+
+#: functions/quality-info/sections/free_pro.php:130
+msgid "Full-Width layout & Boxed layout"
+msgstr ""
+
+#: functions/quality-info/sections/free_pro.php:142
+msgid "PRO Support Forum"
+msgstr ""
+
+#: functions/quality-info/sections/free_pro.php:152
+msgid "Get Quality PRO Now!"
+msgstr ""
+
+#: functions/quality-info/sections/getting-started.php:14
+msgid "About the Quality theme"
+msgstr ""
+
+#: functions/quality-info/sections/getting-started.php:20
+msgid ""
+"This is a Business theme, ideal for creating corporate and business "
+"websites. The premium version has tons of features: the Homepage has a "
+"number of sections where you can feature unlimited sliders, your portfolios, "
+"user reviews, latest news, services, calls to action and much more. Each "
+"section in the HomePage template is carefully designed to fit to all "
+"business requirements."
+msgstr ""
+
+#: functions/quality-info/sections/getting-started.php:22
+msgid ""
+"You can use this theme for any type of activity. Quality is compatible with "
+"popular plugins like WPML and Polylang, and has predefined versions of a "
+"Contact page, a Services page, Portfolio columned layout pages, About Us and "
+"Blog layout pages, to help you create an effective and impactful web "
+"presence."
+msgstr ""
+
+#: functions/quality-info/sections/getting-started.php:24
+#: functions/quality-info/welcome-screen.php:233
+msgid "Getting Started"
+msgstr ""
+
+#: functions/quality-info/sections/getting-started.php:28
+msgid ""
+"Install and activate the Webriti Companion plugin to take full advantage of "
+"all the features this theme has to offer. Go to Customize and install the "
+"Webriti Companion plugin."
+msgstr ""
+
+#: functions/quality-info/sections/getting-started.php:31
+msgid "Go to the Customizer"
+msgstr ""
+
+#: functions/quality-info/sections/getting-started.php:44
+msgid "Useful Links"
+msgstr ""
+
+#: functions/quality-info/sections/getting-started.php:51
+msgid "Lite Demo"
+msgstr ""
+
+#: functions/quality-info/sections/getting-started.php:55
+msgid "PRO Demo"
+msgstr ""
+
+#: functions/quality-info/sections/getting-started.php:66
+msgid "Your feedback is valuable to us"
+msgstr ""
+
+#: functions/quality-info/sections/getting-started.php:69
+msgid "Premium Theme Support"
+msgstr ""
+
+#: functions/quality-info/sections/getting-started.php:79
+msgid "Premium Theme Details"
+msgstr ""
+
+#: functions/quality-info/sections/github.php:11
+#: functions/quality-info/welcome-screen.php:235
+msgid "Why should you upgrade to PRO?"
+msgstr ""
+
+#: functions/quality-info/sections/github.php:16
+msgid "Site Layout"
+msgstr ""
+
+#: functions/quality-info/sections/github.php:17
+msgid ""
+"Quality comes with two types of layout: a boxed one and a full-width layout. "
+"You can easily switch between them in Appearance > Customize."
+msgstr ""
+
+#: functions/quality-info/sections/github.php:24
+msgid "Top Header Section"
+msgstr ""
+
+#: functions/quality-info/sections/github.php:25
+msgid ""
+"You can customize your header section and you can add Contact info details "
+"and social media icons in the Top Section of the header."
+msgstr ""
+
+#: functions/quality-info/sections/github.php:33
+msgid "Multi Level Navigation"
+msgstr ""
+
+#: functions/quality-info/sections/github.php:34
+msgid ""
+"There are beautifully styled navigation/menus in Quality. You can create sub "
+"menus and make multi level menus."
+msgstr ""
+
+#: functions/quality-info/sections/github.php:42
+msgid "Caption Slider"
+msgstr ""
+
+#: functions/quality-info/sections/github.php:43
+msgid ""
+"You can create unlimited slides, which can be controlled by the settings "
+"found in Appearance > Customize."
+msgstr ""
+
+#: functions/quality-info/sections/github.php:51
+msgid "Service Features"
+msgstr ""
+
+#: functions/quality-info/sections/github.php:53
+msgid ""
+"You can display any number of services on the Homepage, with thousands of "
+"Font Awesome icons available. You can also display a set of services on a "
+"separate page by using the Service page template."
+msgstr ""
+
+#: functions/quality-info/sections/github.php:61
+msgid "Portfolio Features"
+msgstr ""
+
+#: functions/quality-info/sections/github.php:62
+msgid ""
+"Showcase any number of projects. This theme provides you with an option to "
+"create 2, 3, 4 column grid layouts by using the portfolio 2, 3, 4 column "
+"layout templates, respectively. If you have a number of projects to present "
+"then these templates are the answer. You can also create categorized "
+"portfolios, which display all the portfolio categories in a single place. In "
+"fact, we have coded this theme so that you can create any number of "
+"different portfolios."
+msgstr ""
+
+#: functions/quality-info/sections/github.php:70
+msgid "Latest News Section"
+msgstr ""
+
+#: functions/quality-info/sections/github.php:71
+msgid ""
+"This section is often used to display content like: Latest news, "
+"Announcements or Events."
+msgstr ""
+
+#: functions/quality-info/sections/github.php:78
+msgid "Testimonial Feature"
+msgstr ""
+
+#: functions/quality-info/sections/github.php:79
+msgid ""
+"Testimonials are a powerful way to gain credibility. You can display "
+"testimonials with a carousel effect."
+msgstr ""
+
+#: functions/quality-info/sections/github.php:88
+msgid "Mulitple Color Schemes"
+msgstr ""
+
+#: functions/quality-info/sections/github.php:89
+msgid ""
+"Quality comes with 9 preset color schemes and you can also create your own "
+"palettes using the Custom Color Setting in the Customizer."
+msgstr ""
+
+#: functions/quality-info/sections/github.php:97
+msgid "Well Documented"
+msgstr ""
+
+#: functions/quality-info/sections/github.php:98
+msgid ""
+"We provide good knowledge-base articles to help you create effective "
+"websites. You can visit these articles through our"
+msgstr ""
+
+#: functions/quality-info/sections/github.php:98
+msgid "Help Section"
+msgstr ""
+
+#: functions/quality-info/sections/github.php:106
+msgid "Custom widget "
+msgstr ""
+
+#: functions/quality-info/sections/github.php:107
+msgid ""
+"Building a website with our custom widgets is very simple. Just place them "
+"inside the available sidebar or even in the content."
+msgstr ""
+
+#: functions/quality-info/sections/github.php:116
+msgid "Translation Ready"
+msgstr ""
+
+#: functions/quality-info/sections/github.php:117
+msgid ""
+"The theme supports yet another famous plugin: WPML. With the help of this "
+"support you can create a website available in multiple languages."
+msgstr ""
+
+#: functions/quality-info/welcome-screen.php:61
+#, php-format
+msgid "Welcome to %1$s - Version %2$s"
+msgstr ""
+
+#: functions/quality-info/welcome-screen.php:63
+#, php-format
+msgid ""
+"Welcome! Thank you for choosing Webriti's Quality WordPress theme. To take "
+"full advantage of the features this theme has to offer visit our %swelcome "
+"page%s."
+msgstr ""
+
+#: functions/quality-info/welcome-screen.php:64
+msgid "Get started with Quality"
+msgstr ""
+
+#: functions/quality-info/welcome-screen.php:126
+msgid "Hooray! There are no required actions for you right now."
+msgstr ""
+
+#: functions/quality-info/welcome-screen.php:163
+msgid "View Theme Info"
+msgstr ""
+
+#: functions/quality-info/welcome-screen.php:236
+msgid "Free VS PRO"
+msgstr ""
+
+#: functions/quality-info/welcome-screen.php:237
+msgid "Child Themes"
+msgstr ""
+
+#: functions/template-tags.php:6
+msgid "Archives"
+msgstr ""
+
+#: functions/template-tags.php:12 functions/template-tags.php:16
+#: functions/template-tags.php:20 functions/template-tags.php:26
+#: functions/template-tags.php:32 functions/template-tags.php:38
+#: functions/template-tags.php:44 functions/template-tags.php:60
+#, php-format
+msgid "%1$s %2$s"
+msgstr ""
+
+#: functions/template-tags.php:70
+#, php-format
+msgid "%1$s "
+msgstr ""
+
+#: functions/template-tags.php:85
+msgid "previous page"
+msgstr ""
+
+#: functions/template-tags.php:85
+msgid "next page"
+msgstr ""
+
+#: functions/widget/custom-sidebar.php:7 functions/widget/custom-sidebar.php:9
+msgid "Sidebar widget area"
+msgstr ""
+
+#: functions/widget/custom-sidebar.php:17
+#: functions/widget/custom-sidebar.php:19
+msgid "Footer widget area"
+msgstr ""
+
+#: functions/widget/custom-sidebar.php:27
+#: functions/widget/custom-sidebar.php:29
+msgid "WooCommerce sidebar widget area"
+msgstr ""
+
+#: search.php:15
+msgid "Nothing Found"
+msgstr ""
+
+#: search.php:16
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: theme_setup_data.php:21
+msgid "Our awesome services"
+msgstr ""
+
+#: theme_setup_data.php:25
+msgid "Beautiful Design"
+msgstr ""
+
+#: theme_setup_data.php:26
+msgid "Global Customer Base"
+msgstr ""
+
+#: theme_setup_data.php:27
+msgid "Friendly Support"
+msgstr ""
+
+#: theme_setup_data.php:28
+msgid "A great value"
+msgstr ""
+
+#: theme_setup_data.php:41
+msgid "Featured portfolio projects"
+msgstr ""
+
+#: theme_setup_data.php:42
+msgid "Most popular of our works."
+msgstr ""
+
+#: theme_setup_data.php:45 theme_setup_data.php:48 theme_setup_data.php:51
+#: theme_setup_data.php:54
+msgid "Business cards"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://webriti.com/quality-lite-version-details-page/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Quality is a perfect theme to create a corporate/business website. It boasts "
+"3 beautifully designed page templates, namely Business Page, Full-width, and "
+"Blog. Quality is built on the Bootstrap CSS Framework, which makes it fully "
+"responsive on all devices, and is translation-ready. To enable the Business "
+"template, just create a normal WordPress page and select Business Template "
+"as page template. The Business template can be further personalized in the "
+"customizer. Each section in the Business Template is designed according to "
+"current business requirements, with sections like Banner, Services, Projects "
+"etc. You can use this theme for any type of activity. Quality supports "
+"famous plugins like Contact Form 7, to create your contact page or any type "
+"of forms you might want to add. Quality also gives a clean and appealing "
+"look to the WordPress core gallery feature. See Quality's demo at https://"
+"demo.webriti.com/?theme=Quality"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Webriti"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://webriti.com/"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://webriti.com/quality-lite-version-details-page/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Quality is a perfect theme to create a corporate/business website. It boasts "
+"3 beautifully designed page templates, namely Business Page, Full-width, and "
+"Blog. Quality is built on the Bootstrap CSS Framework, which makes it fully "
+"responsive on all devices, and is translation-ready. To enable the Business "
+"template, just create a normal WordPress page and select Business Template "
+"as page template. The Business template can be further personalized in the "
+"customizer. Each section in the Business Template is designed according to "
+"current business requirements, with sections like Banner, Services, Projects "
+"etc. You can use this theme for any type of activity. Quality supports "
+"famous plugins like Contact Form 7, to create your contact page or any type "
+"of forms you might want to add. Quality also gives a clean and appealing "
+"look to the WordPress core gallery feature. See Quality's demo at http://"
+"webriti.com/quality-free"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Webriti"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://webriti.com/"
+msgstr ""
+
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Webriti Companion\n"
+"POT-Creation-Date: 2018-06-19 18:11+0530\n"
+"PO-Revision-Date: 2018-06-19 18:11+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: webriti-companion.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: inc/dreamspa/features/feature-slider-section.php:9
+#: inc/spasalon/features/feature-slider-section.php:9
+msgid "Slider settings"
+msgstr ""
+
+#: inc/dreamspa/features/feature-slider-section.php:30
+#: inc/spasalon/features/feature-slider-section.php:30
+msgid "Enable Home slider section"
+msgstr ""
+
+#: inc/dreamspa/features/feature-slider-section.php:53
+#: inc/spasalon/features/feature-slider-section.php:155
+msgid "Slider Image"
+msgstr ""
+
+#: inc/dreamspa/features/feature-slider-section.php:78
+msgid "Slider title"
+msgstr ""
+
+#: inc/dreamspa/features/feature-slider-section.php:94
+msgid "Slider description"
+msgstr ""
+
+#: inc/dreamspa/features/feature-slider-section.php:106
+msgid "Slider caption alignment"
+msgstr ""
+
+#: inc/dreamspa/features/feature-slider-section.php:129
+msgid "Slider caption title color"
+msgstr ""
+
+#: inc/dreamspa/features/feature-slider-section.php:149
+msgid "Slider caption description color"
+msgstr ""
+
+#: inc/quality/features/feature-funfact-section.php:8
+#: inc/quality/features/feature-funfact-section.php:13
+msgid "Funfact settings"
+msgstr ""
+
+#: inc/quality/features/feature-funfact-section.php:25
+#: inc/quality/features/feature-testimonial-section.php:29
+msgid "Background Image"
+msgstr ""
+
+#: inc/quality/features/feature-funfact-section.php:37
+msgid "Enable funfact image overlay"
+msgstr ""
+
+#: inc/quality/features/feature-funfact-section.php:50
+msgid "Funfact image overlay color"
+msgstr ""
+
+#: inc/quality/features/feature-funfact-section.php:62
+msgid "Funfact content"
+msgstr ""
+
+#: inc/quality/features/feature-funfact-section.php:65
+msgid "Add new funfact"
+msgstr ""
+
+#: inc/quality/features/feature-funfact-section.php:66
+msgid "Funfact"
+msgstr ""
+
+#: inc/quality/features/feature-funfact-section.php:85
+msgid "2500"
+msgstr ""
+
+#: inc/quality/features/feature-funfact-section.php:92
+msgid "550"
+msgstr ""
+
+#: inc/quality/features/feature-funfact-section.php:98
+msgid "90%"
+msgstr ""
+
+#: inc/quality/features/feature-funfact-section.php:106
+msgid "1350"
+msgstr ""
+
+#: inc/quality/features/feature-project-section.php:8
+#: inc/quality/features/feature-project-section.php:14
+#: inc/spasalon/features/feature-project-section.php:8
+msgid "Project settings"
+msgstr ""
+
+#: inc/quality/features/feature-project-section.php:33
+#: inc/spasalon/features/feature-project-section.php:29
+msgid "Enable Home Project section"
+msgstr ""
+
+#: inc/quality/features/feature-project-section.php:43
+#: inc/quality/sections/quality-portfolio-section.php:14
+msgid "Featured portfolio projects"
+msgstr ""
+
+#: inc/quality/features/feature-project-section.php:49
+#: inc/quality/features/feature-project-section.php:84
+#: inc/quality/features/feature-project-section.php:140
+#: inc/quality/features/feature-project-section.php:194
+#: inc/quality/features/feature-project-section.php:251
+#: inc/quality/features/feature-project-section.php:309
+#: inc/quality/features/feature-service-section.php:50
+#: inc/quality/features/feature-testimonial-section.php:44
+#: inc/spasalon/features/feature-project-section.php:46
+#: inc/spasalon/features/feature-project-section.php:94
+#: inc/spasalon/features/feature-project-section.php:143
+#: inc/spasalon/features/feature-project-section.php:190
+#: inc/spasalon/features/feature-project-section.php:238
+#: inc/spasalon/features/feature-project-section.php:285
+#: inc/spasalon/features/feature-service-section.php:34
+msgid "Title"
+msgstr ""
+
+#: inc/quality/features/feature-project-section.php:57
+#: inc/quality/sections/quality-portfolio-section.php:15
+msgid "Look <b>At Our</b> Projects"
+msgstr ""
+
+#: inc/quality/features/feature-project-section.php:63
+#: inc/quality/features/feature-project-section.php:99
+#: inc/quality/features/feature-project-section.php:155
+#: inc/quality/features/feature-project-section.php:209
+#: inc/quality/features/feature-project-section.php:266
+#: inc/quality/features/feature-project-section.php:324
+#: inc/quality/features/feature-service-section.php:66
+#: inc/quality/features/feature-testimonial-section.php:58
+#: inc/spasalon/features/feature-project-section.php:61
+#: inc/spasalon/features/feature-project-section.php:108
+#: inc/spasalon/features/feature-project-section.php:157
+#: inc/spasalon/features/feature-project-section.php:204
+#: inc/spasalon/features/feature-project-section.php:252
+#: inc/spasalon/features/feature-project-section.php:299
+#: inc/spasalon/features/feature-service-section.php:45
+msgid "Description"
+msgstr ""
+
+#: inc/quality/features/feature-project-section.php:71
+msgid "Project one"
+msgstr ""
+
+#: inc/quality/features/feature-project-section.php:78
+#: inc/quality/features/feature-project-section.php:134
+#: inc/quality/features/feature-project-section.php:188
+#: inc/quality/features/feature-project-section.php:245
+#: inc/quality/features/feature-project-section.php:303
+#: inc/quality/sections/quality-portfolio-section.php:136
+#: inc/quality/sections/quality-portfolio-section.php:139
+#: inc/quality/sections/quality-portfolio-section.php:143
+#: inc/quality/sections/quality-portfolio-section.php:147
+#: inc/quality/sections/quality-portfolio-section.php:151
+#: inc/spasalon/sections/spasalon-portfolio-section.php:164
+#: inc/spasalon/sections/spasalon-portfolio-section.php:168
+#: inc/spasalon/sections/spasalon-portfolio-section.php:172
+#: inc/spasalon/sections/spasalon-portfolio-section.php:176
+#: inc/spasalon/sections/spasalon-portfolio-section.php:180
+msgid "Business cards"
+msgstr ""
+
+#: inc/quality/features/feature-project-section.php:114
+#: inc/quality/features/feature-project-section.php:168
+#: inc/quality/features/feature-project-section.php:224
+#: inc/quality/features/feature-project-section.php:280
+#: inc/quality/features/feature-project-section.php:338
+#: inc/quality/features/feature-testimonial-section.php:100
+#: inc/spasalon/features/feature-project-section.php:77
+#: inc/spasalon/features/feature-project-section.php:125
+#: inc/spasalon/features/feature-project-section.php:173
+#: inc/spasalon/features/feature-project-section.php:219
+#: inc/spasalon/features/feature-project-section.php:268
+msgid "Image"
+msgstr ""
+
+#: inc/quality/features/feature-project-section.php:127
+msgid "Project two"
+msgstr ""
+
+#: inc/quality/features/feature-project-section.php:181
+msgid "Project three"
+msgstr ""
+
+#: inc/quality/features/feature-project-section.php:238
+msgid "Project four"
+msgstr ""
+
+#: inc/quality/features/feature-project-section.php:294
+msgid "Project five"
+msgstr ""
+
+#: inc/quality/features/feature-service-section.php:8
+#: inc/quality/features/feature-service-section.php:12
+msgid "Service settings"
+msgstr ""
+
+#: inc/quality/features/feature-service-section.php:33
+msgid "Enable Services on homepage."
+msgstr ""
+
+#: inc/quality/features/feature-service-section.php:42
+#: inc/quality/sections/quality-features-section.php:12
+msgid "Our services"
+msgstr ""
+
+#: inc/quality/features/feature-service-section.php:59
+#: inc/quality/sections/quality-features-section.php:13
+msgid "Our <b>Awesome</b> Services"
+msgstr ""
+
+#: inc/quality/features/feature-service-section.php:79
+#: inc/spasalon/features/feature-service-section.php:56
+msgid "Service content"
+msgstr ""
+
+#: inc/quality/features/feature-service-section.php:81
+#: inc/spasalon/features/feature-service-section.php:58
+msgid "Add new service"
+msgstr ""
+
+#: inc/quality/features/feature-service-section.php:82
+#: inc/spasalon/features/feature-service-section.php:59
+msgid "Service"
+msgstr ""
+
+#: inc/quality/features/feature-testimonial-section.php:8
+msgid "Testimonials settings"
+msgstr ""
+
+#: inc/quality/features/feature-testimonial-section.php:17
+msgid "Homepage testimonial settings"
+msgstr ""
+
+#: inc/quality/features/feature-testimonial-section.php:38
+#: inc/quality/sections/quality-testimonial-section.php:77
+msgid "Client's Feedback"
+msgstr ""
+
+#: inc/quality/features/feature-testimonial-section.php:52
+#: inc/quality/sections/quality-testimonial-section.php:78
+msgid "What <b>People</b> Say"
+msgstr ""
+
+#: inc/quality/features/feature-testimonial-section.php:66
+msgid "Sed ut Perspiciatis Unde Omnis Iste"
+msgstr ""
+
+#: inc/quality/features/feature-testimonial-section.php:72
+msgid "Testimonial title"
+msgstr ""
+
+#: inc/quality/features/feature-testimonial-section.php:89
+msgid "Testimonial description"
+msgstr ""
+
+#: inc/quality/features/feature-testimonial-section.php:114
+msgid "Name"
+msgstr ""
+
+#: inc/quality/features/feature-testimonial-section.php:121
+#: inc/quality/sections/quality-testimonial-section.php:22
+msgid "Developer"
+msgstr ""
+
+#: inc/quality/features/feature-testimonial-section.php:127
+msgid "Designation"
+msgstr ""
+
+#: inc/quality/sections/quality-features-section.php:231
+#: inc/quality/sections/quality-features-section.php:289
+msgid "Highly Customizable"
+msgstr ""
+
+#: inc/quality/sections/quality-features-section.php:238
+#: inc/quality/sections/quality-features-section.php:290
+msgid "Fully Responsive Layout"
+msgstr ""
+
+#: inc/quality/sections/quality-features-section.php:245
+#: inc/quality/sections/quality-features-section.php:291
+msgid "User Experience"
+msgstr ""
+
+#: inc/quality/sections/quality-features-section.php:252
+#: inc/quality/sections/quality-features-section.php:292
+msgid "Creative Web Design"
+msgstr ""
+
+#: inc/quality/sections/quality-features-section.php:260
+#: inc/quality/sections/quality-features-section.php:293
+msgid "Unique and Clean"
+msgstr ""
+
+#: inc/quality/sections/quality-features-section.php:268
+#: inc/quality/sections/quality-features-section.php:294
+msgid "Creative Ideas"
+msgstr ""
+
+#: inc/quality/sections/quality-funfact-section.php:53
+msgid "Happy Customer"
+msgstr ""
+
+#: inc/quality/sections/quality-funfact-section.php:60
+msgid "Finish Projects"
+msgstr ""
+
+#: inc/quality/sections/quality-funfact-section.php:67
+msgid "Business Growth"
+msgstr ""
+
+#: inc/quality/sections/quality-funfact-section.php:74
+msgid "Cups of Coffee"
+msgstr ""
+
+#: inc/quality/sections/quality-portfolio-section.php:16
+msgid "View All Portfolios"
+msgstr ""
+
+#: inc/quality/sections/quality-portfolio-section.php:153
+#: inc/quality/sections/quality-portfolio-section.php:154
+#: inc/quality/sections/quality-portfolio-section.php:155
+#: inc/quality/sections/quality-portfolio-section.php:156
+#: inc/quality/sections/quality-portfolio-section.php:157
+msgid "Branding, Illustrator"
+msgstr ""
+
+#: inc/spasalon/features/feature-project-section.php:39
+#: inc/spasalon/sections/spasalon-portfolio-section.php:14
+msgid "Spasalon Our Product Range"
+msgstr ""
+
+#: inc/spasalon/features/feature-project-section.php:88
+msgid "Make-up Products"
+msgstr ""
+
+#: inc/spasalon/features/feature-project-section.php:137
+msgid "Golden Cream"
+msgstr ""
+
+#: inc/spasalon/features/feature-project-section.php:184
+msgid "Facial Toner"
+msgstr ""
+
+#: inc/spasalon/features/feature-project-section.php:232
+msgid "Premium Cleanser"
+msgstr ""
+
+#: inc/spasalon/features/feature-project-section.php:279
+msgid "Silver Cleanser"
+msgstr ""
+
+#: inc/spasalon/features/feature-service-section.php:8
+msgid "Service Settings"
+msgstr ""
+
+#: inc/spasalon/features/feature-service-section.php:20
+msgid "Enable Home service section"
+msgstr ""
+
+#: inc/spasalon/features/feature-service-section.php:29
+#: inc/spasalon/sections/spasalon-features-section.php:12
+msgid "Treatment we are offering"
+msgstr ""
+
+#: inc/spasalon/features/feature-service-section.php:41
+#: inc/spasalon/sections/spasalon-features-section.php:13
+msgid ""
+"In commodo pulvinar metus, id tristique massa ultrices at. Nulla auctor "
+"turpis ut mi pulvinar eu accumsan risus sagittis. Mauris nunc ligula, "
+"ullamcorper vitae accumsan eu,congue in nulla. Cras hendrerit mi quis nisi "
+"semper in sodales nisl faucibus. Sed quis quam eu ante ornare hendrerit."
+msgstr ""
+
+#: inc/spasalon/features/feature-slider-section.php:50
+msgid "Enable Banner strip section"
+msgstr ""
+
+#: inc/spasalon/features/feature-slider-section.php:62
+#: inc/spasalon/sections/spasalon-slider-section.php:58
+msgid "Producing"
+msgstr ""
+
+#: inc/spasalon/features/feature-slider-section.php:69
+msgid "Banner title"
+msgstr ""
+
+#: inc/spasalon/features/feature-slider-section.php:77
+#: inc/spasalon/sections/spasalon-slider-section.php:59
+msgid "Experience"
+msgstr ""
+
+#: inc/spasalon/features/feature-slider-section.php:85
+msgid "Banner subtitle"
+msgstr ""
+
+#: inc/spasalon/features/feature-slider-section.php:101
+msgid "Banner description"
+msgstr ""
+
+#: inc/spasalon/features/feature-slider-section.php:109
+#: inc/spasalon/sections/spasalon-slider-section.php:61
+msgid "Call us on"
+msgstr ""
+
+#: inc/spasalon/features/feature-slider-section.php:117
+msgid "Banner call title"
+msgstr ""
+
+#: inc/spasalon/features/feature-slider-section.php:126
+#: inc/spasalon/sections/spasalon-slider-section.php:62
+msgid "201 567 89785"
+msgstr ""
+
+#: inc/spasalon/features/feature-slider-section.php:134
+msgid "Banner call number"
+msgstr ""
+
+#: inc/spasalon/features/feature-slider-section.php:178
+msgid "Enable Thumbnail section"
+msgstr ""
+
+#: inc/spasalon/features/feature-slider-section.php:196
+#: inc/spasalon/features/feature-slider-section.php:216
+#: inc/spasalon/features/feature-slider-section.php:237
+msgid "Thumbnail Image"
+msgstr ""
+
+#: inc/spasalon/sections/spasalon-features-section.php:205
+msgid "Spa Treatment"
+msgstr ""
+
+#: inc/spasalon/sections/spasalon-features-section.php:215
+msgid "Detox Treatment"
+msgstr ""
+
+#: inc/spasalon/sections/spasalon-features-section.php:225
+msgid "Facial Treatment"
+msgstr ""
+
+#: inc/spasalon/sections/spasalon-features-section.php:235
+msgid "Other Treatment"
+msgstr ""
+
+#: inc/spasalon/sections/spasalon-portfolio-section.php:15
+msgid ""
+"A SpaSalon Produc Heading Title In commodo pulvinar metus, id tristique "
+"massa ultrices at. Nulla auctor turpis ut mi pulvinar eu accumsan risus "
+"sagittis. Mauris nunc ligula, ullamcorper vitae accumsan eu, congue in "
+"nulla. Cras hendrerit mi quis nisi semper in sodales nisl faucibus. Sed quis "
+"quam eu ante ornare hendrerit."
+msgstr ""
+
+#: inc/spasalon/sections/spasalon-slider-section.php:60
+msgid ""
+"Donec justo odio, lobortis eget congue sed, rutrum sit amet mauris. "
+"Curabitur sed lectus nulla. Curabitur sed lectus nulla.lobortis eget congue "
+"sed, rutrum sit amet mauris. Curabitur sed lectus nulla rutrum sit amet "
+"mauris."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Webriti Companion"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Enhances Webriti themes with extra functionality."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Webriti"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://github.com"
+msgstr ""
